@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bose-30/",
+    "build": "vite build --base=/Bose-30/",
     "preview": "vite preview"
   },
   "devDependencies": {
